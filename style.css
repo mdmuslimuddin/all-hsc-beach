@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    color:blueviolet;
+    font-size: 50px;
+ }
+ p{
+  text-align: center;
+   color:black;
+   font-size: 20px;
+ }
+
+ .from-box{
+  width: 350px;
+  height: 250px;
+  margin: auto;
+  border-style: solid;
+  padding: 50px 10px 80px 10px;
+ }
+ 
+botton h2{
+  text-align: center;
+  margin: auto;
+  border-width: 10px;
+  border-style: solid;
+  border-color: blue;
+  border-radius: 500px;
+  color: beige;
+  background-color: blue;
+  display:inline-flex;
+} 
+input{
+  width: 200px;
+  height: 20px
+  
+}
